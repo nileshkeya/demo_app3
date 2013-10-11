@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37bb7827-ac42-4896-9d19-2b20c4040cc6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/user.rb" afterPath="$PROJECT_DIR$/app/models/user.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/schema.rb" afterPath="$PROJECT_DIR$/db/schema.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="demo_app3.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Gemfile" changelist="37bb7827-ac42-4896-9d19-2b20c4040cc6" time="1381328731558" ignored="false" />
-    <file path="/Dummy.txt" changelist="37bb7827-ac42-4896-9d19-2b20c4040cc6" time="1381487610189" ignored="false" />
+    <file path="/Dummy.txt" changelist="37bb7827-ac42-4896-9d19-2b20c4040cc6" time="1381487761445" ignored="false" />
     <file path="/Ruby Console" changelist="37bb7827-ac42-4896-9d19-2b20c4040cc6" time="1381487145000" ignored="false" />
     <file path="/routes.rb" changelist="37bb7827-ac42-4896-9d19-2b20c4040cc6" time="1381401003330" ignored="false" />
     <file path="/production.rb" changelist="37bb7827-ac42-4896-9d19-2b20c4040cc6" time="1381414371552" ignored="false" />
@@ -256,7 +256,7 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
   </component>
-  <component name="RunManager" selected="IRB console.Rails console: demo_app3">
+  <component name="RunManager" selected="Rake.db:migrate">
     <configuration default="false" name="db:migrate" type="RakeRunConfigurationType" factoryName="Rake" temporary="true">
       <module name="demo_app3" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -265,8 +265,8 @@
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
       <envs>
-        <env name="RAILS_ENV" value="development" />
-        <env name="VERSION" value="20131011101732" />
+        <env name="RAILS_ENV" value="production" />
+        <env name="VERSION" value="20131009143357" />
       </envs>
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
       <EXTENSION ID="JRubyRunConfigurationExtension" />
@@ -519,8 +519,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="IRB console.Rails console: demo_app3" />
-        <item index="1" class="java.lang.String" itemvalue="Rake.db:migrate" />
+        <item index="0" class="java.lang.String" itemvalue="Rake.db:migrate" />
+        <item index="1" class="java.lang.String" itemvalue="IRB console.Rails console: demo_app3" />
         <item index="2" class="java.lang.String" itemvalue="IRB console.Rails console: demo_app3" />
         <item index="3" class="java.lang.String" itemvalue="IRB console.Rails console: demo_app3" />
         <item index="4" class="java.lang.String" itemvalue="IRB console.Rails console: demo_app3" />
@@ -623,7 +623,11 @@
       <created>1381487613444</created>
       <updated>1381487613444</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="9th">
+      <created>1381487764997</created>
+      <updated>1381487764997</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -693,7 +697,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="8th" />
+    <option name="LAST_COMMIT_MESSAGE" value="9th" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -715,6 +719,7 @@
     <MESSAGE value="6th" />
     <MESSAGE value="7th" />
     <MESSAGE value="8th" />
+    <MESSAGE value="9th" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
