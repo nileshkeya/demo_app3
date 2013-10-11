@@ -7,10 +7,11 @@
     <ignored path="demo_app3.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Gemfile" changelist="37bb7827-ac42-4896-9d19-2b20c4040cc6" time="1381328731558" ignored="false" />
-    <file path="/Dummy.txt" changelist="37bb7827-ac42-4896-9d19-2b20c4040cc6" time="1381486982256" ignored="false" />
+    <file path="/Dummy.txt" changelist="37bb7827-ac42-4896-9d19-2b20c4040cc6" time="1381487424248" ignored="false" />
     <file path="/Ruby Console" changelist="37bb7827-ac42-4896-9d19-2b20c4040cc6" time="1381487145000" ignored="false" />
     <file path="/routes.rb" changelist="37bb7827-ac42-4896-9d19-2b20c4040cc6" time="1381401003330" ignored="false" />
     <file path="/production.rb" changelist="37bb7827-ac42-4896-9d19-2b20c4040cc6" time="1381414371552" ignored="false" />
+    <file path="/micropost.rb" changelist="37bb7827-ac42-4896-9d19-2b20c4040cc6" time="1381487459122" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +61,7 @@
       <file leaf-file-name="micropost.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/models/micropost.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="3" column="43" selection-start="122" selection-end="122" vertical-scroll-proportion="0.14127424">
               <folding />
             </state>
           </provider>
@@ -112,6 +113,7 @@
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/log/development.log" />
         <option value="$PROJECT_DIR$/config/environments/production.rb" />
+        <option value="$PROJECT_DIR$/app/models/micropost.rb" />
       </list>
     </option>
   </component>
@@ -597,7 +599,11 @@
       <created>1381486996205</created>
       <updated>1381486996205</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="8th">
+      <created>1381487427618</created>
+      <updated>1381487427618</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -783,7 +789,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models/micropost.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="3" column="43" selection-start="122" selection-end="122" vertical-scroll-proportion="0.14127424">
           <folding />
         </state>
       </provider>
