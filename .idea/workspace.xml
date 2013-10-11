@@ -7,7 +7,7 @@
     <ignored path="demo_app3.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Gemfile" changelist="37bb7827-ac42-4896-9d19-2b20c4040cc6" time="1381328731558" ignored="false" />
-    <file path="/Dummy.txt" changelist="37bb7827-ac42-4896-9d19-2b20c4040cc6" time="1381487424248" ignored="false" />
+    <file path="/Dummy.txt" changelist="37bb7827-ac42-4896-9d19-2b20c4040cc6" time="1381487490039" ignored="false" />
     <file path="/Ruby Console" changelist="37bb7827-ac42-4896-9d19-2b20c4040cc6" time="1381487145000" ignored="false" />
     <file path="/routes.rb" changelist="37bb7827-ac42-4896-9d19-2b20c4040cc6" time="1381401003330" ignored="false" />
     <file path="/production.rb" changelist="37bb7827-ac42-4896-9d19-2b20c4040cc6" time="1381414371552" ignored="false" />
@@ -34,7 +34,7 @@
       <file leaf-file-name="development.log" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/log/development.log">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1496" column="17" selection-start="60809" selection-end="60809" vertical-scroll-proportion="0.0">
+            <state line="1636" column="17" selection-start="66825" selection-end="66825" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -61,7 +61,7 @@
       <file leaf-file-name="micropost.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/models/micropost.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="43" selection-start="122" selection-end="122" vertical-scroll-proportion="0.14127424">
+            <state line="2" column="42" selection-start="116" selection-end="116" vertical-scroll-proportion="0.09418283">
               <folding />
             </state>
           </provider>
@@ -603,12 +603,16 @@
       <created>1381487427618</created>
       <updated>1381487427618</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="8th">
+      <created>1381487492486</created>
+      <updated>1381487492486</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295082" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -616,7 +620,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25151515" sideWeight="0.67105263" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25454545" sideWeight="0.67105263" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25454545" sideWeight="0.67105263" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -754,7 +758,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/log/development.log">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1496" column="17" selection-start="60809" selection-end="60809" vertical-scroll-proportion="0.0">
+        <state line="1636" column="17" selection-start="66825" selection-end="66825" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -789,7 +793,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models/micropost.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="43" selection-start="122" selection-end="122" vertical-scroll-proportion="0.14127424">
+        <state line="2" column="42" selection-start="116" selection-end="116" vertical-scroll-proportion="0.09418283">
           <folding />
         </state>
       </provider>
